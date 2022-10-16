@@ -1,0 +1,8 @@
+/* Write your code here. */
+.list-container {
+  list-style-type: none;
+  opacity: 0.4;
+}
+.button {
+  border: none;
+}

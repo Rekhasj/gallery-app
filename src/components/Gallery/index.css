@@ -1,0 +1,33 @@
+/* Write your code here. */
+.home-container {
+  display: flex;
+  justify-content: center;
+}
+.gallery-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: flex-start;
+}
+
+.thumbnail-list-container {
+  display: flex;
+}
+.gallery-image {
+  height: 400px;
+  width: 600px;
+}
+.gallery-list-container {
+  list-style-type: none;
+}
+.list {
+  list-style-type: none;
+}
+.heading {
+  margin-left: 40px;
+  font-size: 20px;
+}
+.details {
+  margin-left: 40px;
+  font-size: 15px;
+}
